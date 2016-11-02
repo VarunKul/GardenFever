@@ -8,10 +8,10 @@
 <body>
 
 	<center>
-		<h2>Hello World - Tested on Nov 1,2016</h2>
+		<h2>Hello World - Tested on Nov 2,2016</h2>
 		<h3><% new com.programcreek.helloworld.controller.HelloWorld().add(10,20);
 				System.out.println("Hello World add method executed");%>
-			<a href="hello?name=ATMECS - Tested on Nov 1,2016">Click Here</a>
+			<a href="hello?name=ATMECS - Tested on Nov 2,2016">Click Here</a>
 		</h3>
 	</center>
 </body>
